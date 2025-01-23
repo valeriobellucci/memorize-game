@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 
 # Path to the folder where the data are located
-folder_path = '/Users/damiano/Desktop/German/Nicole' ### CHANGE HERE ###
+folder_path = '/Users/XXX' ### CHANGE HERE, path to the folder where the notes are ###
 
 # Files pattern to load
-file_pattern = "Neues*.xlsx"  # Pattern for .xlsx files starting with "Neues"
-
+# ex. file pattern starting with "Neues" and ending in .xlsx
+file_pattern = "Neues*.xlsx"  ### CHANGE HERE ###
 
 ###################################################
 # Game Interface
